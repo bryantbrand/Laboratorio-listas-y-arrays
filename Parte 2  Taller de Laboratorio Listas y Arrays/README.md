@@ -24,4 +24,11 @@ la suma de estos valores es 2.07/10= 0.207 este ultimo siendo el promedio.
 *Requieren de las librerias
 *Todos los elementos tienen que ser del mismo tipo de variable int/string/float.
 *Son mas eficientes por su rendimiento ya que estos guardan los datos seguidos haciendo al algoritmo mas eficiente.
-*Son buenos para operaciones matematicas.
+*Son buenos para operaciones matematicas.<img width="1024" height="768" alt="Captura de pantalla (81)" src="https://github.com/user-attachments/assets/57766ec0-54eb-4716-81d1-1341317895ec" /> <img width="1024" height="768" alt="Captura de pantalla (82)" src="https://github.com/user-attachments/assets/815b5a51-af9a-4f39-9209-a5ba8958dbfc" /> <img width="1024" height="768" alt="Captura de pantalla (83)" src="https://github.com/user-attachments/assets/b26419a8-886a-4438-99aa-1c397b87260a" /> <img width="1024" height="768" alt="Captura de pantalla (84)" src="https://github.com/user-attachments/assets/84fa062a-bdec-41fa-868c-318aeabb1ddc" /> <img width="1024" height="768" alt="Captura de pantalla (85)" src="https://github.com/user-attachments/assets/6c0cf8d5-34d4-4c18-b115-43fbf4c4d353" />
+
+
+
+
+
+
+
